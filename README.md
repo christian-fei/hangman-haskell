@@ -1,6 +1,7 @@
 hangman-haskell
 ===============
 
+[![Circle CI](https://circleci.com/gh/christian-fei/hangman-haskell.svg?style=svg)](https://circleci.com/gh/christian-fei/hangman-haskell)
 
 # building
 

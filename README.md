@@ -8,3 +8,9 @@ hangman-haskell
 `cabal build`
 
 run the executable from within the directory `dist/`
+
+
+# testing
+
+`cabal test`
+
